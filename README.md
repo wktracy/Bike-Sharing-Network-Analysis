@@ -1,7 +1,7 @@
 # Bike-Sharing-Network-Analysis
 Statistical, temporal and network analysis on a bike sharing system in Seattle, U.S.
 
-You may click on the above files directly to view the content.
+You may click on the above files directly to view the content - Python codes, explanatory slides.
 
 ## Introduction
 In this mini project, we will look at bike-sharing data from Pronto Cycle Share, a short-lived public bike sharing company operated in Seattle, U.S. between October 2014 and August 2016.
